@@ -35,7 +35,14 @@ The best and easiest namespace to Share Sitecore code: **Shared.SharedSitecore**
   </td></tr>
 </table>
 </center>
+<br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sharedsitecore&show_icons=true&count_private=true)  
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sharedsitecore)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sharedsitecore)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub metrics](https://metrics.lecoq.io/sharedsitecore)
 <!--
 ### Hi there 👋
 
